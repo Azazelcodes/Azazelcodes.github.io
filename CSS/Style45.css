@@ -1,0 +1,51 @@
+body {
+	background: url('../images3/deg69.png');
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover; /* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#container {
+	background-color: #F7AF9D;
+	width: 600px;
+	height: 1100px;
+	color: whitesmoke;
+	padding: 50px;
+	border-radius: 30px;
+}
+
+h1 {
+	color: #C08497;
+	font-family: 'Baloo Tammudu 2', cursive;
+	font-size: 80px;
+}
+
+
+h2 {
+	background-color: #B0D0D3;
+	color: #F7E3AF;
+	padding: 25px;
+	border-radius: 15px;
+
+}
+
+h3 {
+	font-size: 25px;
+	background-color: #61E294;
+	color: #A7333F;
+	padding: 30px;
+	border-radius: 15px;
+}
+
+a {
+	color: lightblue;
+	text-decoration: none;
+}
+
+p {
+    font-family: 'Viaoda Libre', cursive;
+	color: #345995;
+}
